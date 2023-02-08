@@ -2,6 +2,8 @@
 
 This is a small and simple project made with React.js
 
+The preview is [here](https://taherehsharifian.github.io/magic-memory-react/)
+
 ## how to start the project
 
 > you must have `Node.js` installed on your machine.
