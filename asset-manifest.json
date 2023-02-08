@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magic-memory-react/static/css/main.e02ebf56.css",
+    "main.js": "/magic-memory-react/static/js/main.bb043a84.js",
+    "index.html": "/magic-memory-react/index.html",
+    "main.e02ebf56.css.map": "/magic-memory-react/static/css/main.e02ebf56.css.map",
+    "main.bb043a84.js.map": "/magic-memory-react/static/js/main.bb043a84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02ebf56.css",
+    "static/js/main.bb043a84.js"
+  ]
+}
