@@ -3,13 +3,12 @@ import "./App.css";
 import SingleCard from "./components/singleCard/SingleCard";
 
 const cardImages = [
-  { src: "img/jhope.jpg", matched: false },
-  { src: "img/jimin.jpg", matched: false },
-  { src: "img/jin.jpg", matched: false },
-  { src: "img/jungkook.jpg", matched: false },
-  { src: "img/namjoon.jpg", matched: false },
-  { src: "img/suga.jpg", matched: false },
-  { src: "img/taehyung.jpg", matched: false },
+  { src: "img/helmet-1.png", matched: false },
+  { src: "img/ring-1.png", matched: false },
+  { src: "img/sword-1.png", matched: false },
+  { src: "img/shield.png", matched: false },
+  { src: "img/scroll-1.png", matched: false },
+  { src: "img/potion-1.png", matched: false },
 ];
 
 function App() {
