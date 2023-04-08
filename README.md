@@ -1,8 +1,10 @@
+![image](https://user-images.githubusercontent.com/91904415/230727548-745be2f0-9eb3-490b-85e1-91a0a007bfcd.png)
+
+
 # Magic Memory - Card Game
 
-This is a small and simple project made with React.js
+This is a small and simple project made with React.js. Link is in the description
 
-The preview is [here](https://taherehsharifian.github.io/magic-memory-react/)
 
 ## how to start the project
 
